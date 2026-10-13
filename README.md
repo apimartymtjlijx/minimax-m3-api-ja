@@ -10,7 +10,7 @@
   <img src="assets/01-product-ad-ceramic-mug-thumb.jpg" width="820" alt="MiniMax M3 (minimax-m3) output preview generated through APIMart">
 </p>
 
-> per generated second — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
+> **per generated second**, billed by resolution — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
 
 **[Get an API key](https://go.apimart.ai/k-4c4a3e)** · **[Live pricing](https://go.apimart.ai/k-b53b70)** · **[Model page](https://go.apimart.ai/k-7371cd)** · [⚡ 60-second quickstart](#quickstart)
 
